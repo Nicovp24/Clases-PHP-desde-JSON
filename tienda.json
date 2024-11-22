@@ -1,0 +1,41 @@
+{
+  "categorias": [
+    {
+      "nombre": "Ropa",
+      "productos": [
+        {
+          "nombre": "Camiseta Básica",
+          "marca": "FashionBrand",
+          "precio": 15.99,
+          "variantes": [
+            {"talla": "S", "color": "Blanco", "precio": 15.99},
+            {"talla": "M", "color": "Negro", "precio": 16.99}
+          ]
+        },
+        {
+          "nombre": "Pantalón Vaquero",
+          "marca": "DenimCo",
+          "precio": 39.99,
+          "variantes": [
+            {"talla": "32", "color": "Azul", "precio": 39.99},
+            {"talla": "34", "color": "Negro", "precio": 42.99}
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Calzado",
+      "productos": [
+        {
+          "nombre": "Zapatillas Deportivas",
+          "marca": "RunFast",
+          "precio": 59.99,
+          "variantes": [
+            {"talla": "40", "color": "Blanco", "precio": 59.99},
+            {"talla": "42", "color": "Negro", "precio": 64.99}
+          ]
+        }
+      ]
+    }
+  ]
+}
